@@ -9,3 +9,6 @@
 
 - Reverse Linked List
   - reverses a linked list in place, O(n) time complexity
+
+- Merge Sort
+  - performs merge sort algorithm on unsorted array input
