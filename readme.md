@@ -12,3 +12,6 @@
 
 - Merge Sort
   - performs merge sort algorithm on unsorted array input
+
+- Linked List Cycles
+  - given a linked list, determines if it has a cycle in it
