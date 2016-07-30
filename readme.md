@@ -15,3 +15,6 @@
 
 - Linked List Cycles
   - given a linked list, determines if it has a cycle in it
+
+- Insertion Sort
+  - sorts values in an array by growing a sorted array behind the current location
